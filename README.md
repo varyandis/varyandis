@@ -1,4 +1,8 @@
-## 🧩 Alexandra / Frontend Developer
+<div align="center">
+  
+## 🌸 Alexandra / Frontend Developer 🌸
+
+</div>
 
 ### 💻 Tech Stack
 
