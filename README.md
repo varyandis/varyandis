@@ -50,8 +50,3 @@
 
 
 ---
-
-### 📫 Контакты
-
-[![Telegram](https://img.shields.io/badge/@yara_mell-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/yara_mell)  
-✉️ [yaramel2016@gmail.com](mailto:yaramel2016@gmail.com)
